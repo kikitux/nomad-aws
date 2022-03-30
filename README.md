@@ -14,6 +14,7 @@ cd nomad-aws
 ```
 
 ## TODO
+- [ ] create ec2 instances
 
 ## DONE
 - [x] this readme
